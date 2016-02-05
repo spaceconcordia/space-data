@@ -1,0 +1,15 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "Backend for spacecraft software DB access app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+}
